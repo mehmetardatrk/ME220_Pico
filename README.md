@@ -1,4 +1,4 @@
-# ME220_Pico
+# ME220_Pico_2026-2027
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E53935&center=true&vCenter=true&width=750&lines=M.+Arda+Turk+%7C+Melisa+Ozkan+%7C+Osman+Ozer" alt="Typing SVG" />
